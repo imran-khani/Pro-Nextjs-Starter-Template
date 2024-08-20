@@ -1,6 +1,7 @@
 
 # My Next.js Project Template
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e5d72ed6-9d29-4429-a3fc-690ee23e8e4f)
+
 
 ## Overview
 
